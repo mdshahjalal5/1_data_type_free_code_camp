@@ -43,5 +43,3 @@ const identity: typeof intro = {
 }
 
 
-
-// fasd;ffsdf fsdfa
