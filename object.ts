@@ -42,4 +42,12 @@ const identity: typeof intro = {
     is_married:true
 }
 
+// function annotation 
 
+type fa_sig = (p1:number, p2:number ) => string;
+
+const summation:fa_sig = (x, y) =>{
+  return `${x+y}`;
+}
+
+ 
